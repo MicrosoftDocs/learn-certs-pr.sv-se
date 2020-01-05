@@ -1,0 +1,120 @@
+### YamlMime:CertificationHome
+
+title: Microsoft-certifieringar
+summary: Tjäna certifieringar vilka visar att du är i takt med dagens tekniska uppgifter och krav. Välj en arbetsuppgift för att upptäcka certifieringsvägar.
+
+roles:
+  - name: developer
+    summary: Utvecklaren designar, bygger, testar och bibehåller mölnlösningar.
+    url: /learn/certifications/roles/developer
+  - name: administrator
+    summary: Administratörer implementerar,övervakar och bibehåller Microsoft lösningar.
+    url: /learn/certifications/roles/administrator
+  - name: solution-architect
+    summary: Solutions Architects har en sakkunskap inom dator, nätverk, laging, säkerhet.
+    url: /learn/certifications/roles/solutions-architect
+  - name: data-engineer
+    summary: Dataingenjörer designar och implementerar hanteringen,övervakningen,säkerheten och datasekretessen med hjälp av hela datatjänsten.
+    url: /learn/certifications/roles/data-engineer
+  - name: data-scientist
+    summary: Datavetare tillämpar maskininlärningstekniker för att träna, utvärdera och sprida modeller som löser affärsproblem.
+    url: /learn/certifications/roles/data-scientist
+  - name: ai-engineer
+    summary: AI Engineers använder kognitiva tjänster, maskininlärning och Knowledge Mining för att skapa och implementera Microsoft AI solutions.
+    url: /learn/certifications/roles/ai-engineer
+  - name: devops-engineer
+    summary: DevOps Engineers kombinerar människor, processer och teknologier för att kontinuerlig leverera värdefulla produkter och tjänster som uppfyller slutanvändarnas behov och affärsmål
+    url: /learn/certifications/roles/devops-engineer
+  - name: security-engineer
+    summary: Säkerhetsingjenjörer implementerar säkerhetskontroller och hotskydd, hanterar identitet och åtkomst och skyddar data, applikationer och nätverk
+    url: /learn/certifications/roles/security-engineer
+  - name: functional-consultant
+    summary: Funktionell-konsulter utnyttjar Microsoft Dynamics 365 för att förutse och planera för kudernas behov
+    url: /learn/certifications/roles/functional-consultant
+
+
+certificationsSection:
+  title: Bli Microsoft-certifierad
+  summary: "Microsoft har certifiernigsvägar för många tekniska arbetsuppgiter. Var och en av dessa certifieringar består av att ha godkänt en serie certifieringsprov."
+  tiers:
+    - title: Grundläggande certifieringar
+      summary: Rekommenderad start. För individer som just nu börjar inom teknologi och funderar om en kariärförändring.
+      certifications:
+        - uid: certification.azure-fundamentals
+        - uid: certification.microsoft-365-fundamentals
+        - uid: certification.power-platform-fundamentals
+      browseLink:
+        text: Söka grundläggande certifieringar
+        url: /learn/certifications/browse?levels=beginner&term=fundamentals 
+    - title: Role-based certifieringar
+      summary: Välja en role-based certifiering för att börja lära sig värdefulla kunskaper om arbetsuppgifter.
+      certifications:
+        - uid: certification.azure-developer
+        - uid: certification.power-apps-and-d365-developer-associate
+        - uid: certification.d365-functional-consultant-sales
+      browseLink:
+        text: Söka role-based certifieringar
+        url: /learn/certifications/browse?resource_type=certification
+    - title: Ytterligare certifieringar
+      summary: Utforska specialitet, Microsoft Certified Educator och Microsoft Office tekniska certifieringar.
+      certifications:
+        - uid: certification.azure-for-sap-workloads-specialty
+        - uid: certification.microsoft-certified-educator
+        - uid: certification.mos-word-expert-2019
+      browseLink:
+        text: Söka ytterligare certifieringar
+        url: /learn/certifications/browse?resource_type=certification
+
+trainingSection:
+  title: Hur man förbereder sig för certifiering
+  summary: Microsoft förstår att alla har olika inlärningspreferenser så vi tillhandhåller certifieringar och utbildningsmöjligheter under din certifieringsresa.
+  items:
+  - image:
+      alt: Kvinna som tittar på Microsoft Surface
+      src: /learn/certifications/images/image-working-lady-laptop.jpg
+    title: Gratis inlärningsvägar att förbereda sig
+    summary: Med Microsoft Learn, vem som helst kan behärska kärnkoncept snabbt och enligt sitt schemma. Oavsett om det är en enda modul för att lära sig om en kärnuppgift eller utforska et ämne helt genom en samling av relaterade moduler.
+    browseLinks:
+    - text: Söka alla inlärningsvägar
+      url: https://docs.microsoft.com/learn/browse/?resource_type=learning%20path
+  - image:
+      alt: Man som presenterar för fyra personer som sitter runt ett bord
+      src: /learn/certifications/images/image-working-group.jpg
+    title: Förberd dig med instruktörsledd utbildning
+    summary: Microsoft Learning Partners erbjuder en bredd av lösningar som passar dina inlärningsbehov och ger dig möjlighet att uppnå dina utbildningsmål. Microsoft Certified Trainers har slutfört en strikt utbildning och uppfyllt stränga tekniska certifieringskrav.
+    browseLinks:
+    - text: Söka alla instruktörsledd utbildningar
+      url: /learn/certifications/courses/browse/
+
+resourcesSection:
+  title: Inlärnings resurser
+  items:
+    - title: Hita en Microsoft Learning Partner
+      summary: Vårt globala partnernätverk levererar flexibel, lösning-baserad, anpassad utbildning i Microsofts teknologier.
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
+    - title: Stöd för certifieringar och prov
+      summary: Få hjälp genom supportforum. En forummoderator svarar inom en arbetsdag, Måndag-Fredag.
+      url: /learn/certifications/help
+    - title: Söka alla certifieringar och prov
+      summary: Utforska alla certifieringar för att ta din karriär till nästa nivå.
+      url: /learn/certifications/browse
+
+statisticsSection:
+  title: Varför behövs certifiering
+  summary: Certifieringar ger dig en proffesionell fördel med bevis på industrins erkända rollbaserade kompetenser.
+  video:
+    pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
+    iframeTitle: Microsoft-certifieringar
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Fördelarna med Microsoft-certifieringar
+    summary: När de fick en certifiering rapporterade 23% av Microsoft-certifierade teknologer att de fick upp till 20% löneförhöjning. Dessutom har de certifierade ansällda ofta anledning att övervaka sina kollegor genom att sätta dem på snabbspåret för en avancemang. â€”2017 Pearson VUE Värdet på vitbok om certifiering.
+  items:
+    - title: 38%
+      summary: av IT-positioner kommer att vara molnrelaterade fram till 2021.
+      note: IDC/Microsoft, molnfärdighet och organisatorisk påverkan* Hur molnkompetenser påskyndar IT-professionalskarriär,maj 2017
+    - title: 35%
+      summary: av IT-proffsen säger att de är mer inflytelserika under molninstallationer än motsvarigheter under instalationer av andra taknologier.
+      note: IDC/Microsoft, molnfärdighet och organisatorisk påverkan* Hur molnkompetenser påskyndar IT-professionalskarriär,maj 2017
+    - title: 36.9%
+      summary: av IT-proffsen hävdade att certifiering hjälpte dem att utföra mer säkert komplexa uppgifter.
+      note: Pearson VUE, Värdet av IT-certifieringsundersökning, januari 2017
