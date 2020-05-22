@@ -1,6 +1,6 @@
 ### YamlMime:CertificationHome
 
-title: Microsoft-certifieringar
+title: Microsoft Certifications
 summary: Tjäna certifieringar vilka visar att du är i takt med dagens tekniska uppgifter och krav. Välj en arbetsuppgift för att upptäcka certifieringsvägar.
 
 roles:
@@ -14,27 +14,27 @@ roles:
     summary: Solutions Architects har en sakkunskap inom dator, nätverk, laging, säkerhet.
     url: /learn/certifications/roles/solutions-architect
   - name: data-engineer
-    summary: Dataingenjörer designar och implementerar hanteringen,övervakningen,säkerheten och datasekretessen med hjälp av hela datatjänsten.
+    summary: Data Engineers designar och implementerar hanteringen,övervakningen,säkerheten och datasekretessen med hjälp av hela datatjänsten.
     url: /learn/certifications/roles/data-engineer
   - name: data-scientist
-    summary: Datavetare tillämpar maskininlärningstekniker för att träna, utvärdera och sprida modeller som löser affärsproblem.
+    summary: Data Scientists tillämpar maskininlärningstekniker för att träna, utvärdera och sprida modeller som löser affärsproblem.
     url: /learn/certifications/roles/data-scientist
   - name: ai-engineer
     summary: AI Engineers använder kognitiva tjänster, maskininlärning och Knowledge Mining för att skapa och implementera Microsoft AI solutions.
     url: /learn/certifications/roles/ai-engineer
   - name: devops-engineer
-    summary: DevOps Engineers kombinerar människor, processer och teknologier för att kontinuerlig leverera värdefulla produkter och tjänster som uppfyller slutanvändarnas behov och affärsmål
+    summary: DevOps Engineers kombinerar människor, processer och teknologier för att kontinuerlig leverera värdefulla produkter och tjänster som uppfyller slutanvändarnas behov och affärsmål.
     url: /learn/certifications/roles/devops-engineer
   - name: security-engineer
-    summary: Säkerhetsingjenjörer implementerar säkerhetskontroller och hotskydd, hanterar identitet och åtkomst och skyddar data, applikationer och nätverk
+    summary: Security Engineers implementerar säkerhetskontroller och hotskydd, hanterar identitet och åtkomst och skyddar data, applikationer och nätverk.
     url: /learn/certifications/roles/security-engineer
   - name: functional-consultant
-    summary: Funktionell-konsulter utnyttjar Microsoft Dynamics 365 för att förutse och planera för kudernas behov
+    summary: Functional Consultants utnyttjar Microsoft Dynamics 365 för att förutse och planera för kudernas behov
     url: /learn/certifications/roles/functional-consultant
 
 
 certificationsSection:
-  title: Bli Microsoft-certifierad
+  title: Bli Microsoft Certified
   summary: "Microsoft har certifiernigsvägar för många tekniska arbetsuppgiter. Var och en av dessa certifieringar består av att ha godkänt en serie certifieringsprov."
   tiers:
     - title: Grundläggande certifieringar
@@ -91,7 +91,7 @@ resourcesSection:
   items:
     - title: Hita en Microsoft Learning Partner
       summary: Vårt globala partnernätverk levererar flexibel, lösning-baserad, anpassad utbildning i Microsofts teknologier.
-      url: https://www.microsoft.com/learning/partners.aspx
+      url: https://www.microsoft.com/en-us/learning/partners.aspx
     - title: Stöd för certifieringar och prov
       summary: Få hjälp genom supportforum. En forummoderator svarar inom en arbetsdag, Måndag-Fredag.
       url: /learn/certifications/help
@@ -101,13 +101,13 @@ resourcesSection:
 
 statisticsSection:
   title: Varför behövs certifiering
-  summary: Certifieringar ger dig en proffesionell fördel med bevis på industrins erkända rollbaserade kompetenser.
+  summary: Certifieringar ger dig en professionell fördel med bevis på industrins erkända rollbaserade kompetenser.
   video:
     pdfDownloadUrl: https://download.microsoft.com/download/C/A/A/CAA1BDA9-D61F-47D2-BC0A-C3A820B21DAF/Pearson_VUE_Value_of_IT_Certification_Survey_Summary_Report_2017.pdf
-    iframeTitle: Microsoft-certifieringar
-    iframeSrc: https://www.microsoft.com/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
-    title: Fördelarna med Microsoft-certifieringar
-    summary: När de fick en certifiering rapporterade 23% av Microsoft-certifierade teknologer att de fick upp till 20% löneförhöjning. Dessutom har de certifierade ansällda ofta anledning att övervaka sina kollegor genom att sätta dem på snabbspåret för en avancemang. â€”2017 Pearson VUE Värdet på vitbok om certifiering.
+    iframeTitle: Microsoft Certifications
+    iframeSrc: https://www.microsoft.com/en-us/videoplayer/embed/RE3HGnx?pid=RE3HGnx-ax-0-id-oneplayer&jsapi=true&postJsllMsg=true&autoplay=false&mute=false&loop=false&market=en-us&playFullScreen=false
+    title: Fördelarna med Microsoft Certifications
+    summary: När de fick en certifiering rapporterade 23% av Microsoft-certifierade teknologer att de fick upp till 20% löneförhöjning. Dessutom har de certifierade ansällda ofta anledning att övervaka sina kollegor genom att sätta dem på snabbspåret för en avancemang. 2017 Pearson VUE Värdet på vitbok om certifiering.
   items:
     - title: 38%
       summary: av IT-positioner kommer att vara molnrelaterade fram till 2021.
